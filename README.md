@@ -1,11 +1,16 @@
 <div align="center">
 
-<!-- Yazı Animasyonu Üstte -->
-<img src="https://readme-typing-svg.herokuapp.com?color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Berkant;Software+Developer;Welcome+to+my+Profile" />
+<!-- Sabit İsim -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+I'm+Berkant" />
 
 <br>
 
-<!-- Pikachu Animasyonu Altta -->
+<!-- Değişen Roller -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Software+Developer;IT+Specialist;DevOps+Enthusiast" />
+
+<br>
+
+<!-- Pikachu Animasyonu -->
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450">
 
 </div>
