@@ -1,12 +1,10 @@
 <div align="center">
 
-<!-- Sabit İsim -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hi+I'm+Berkant" />
+<!-- Sabit Başlık (Hiç silinmez ve hareket etmez) -->
+<h1 style="color: #F7DF1E; font-family: 'Fira Code', monospace; margin-bottom: 0;">Hi I'm Berkant</h1>
 
-<br>
-
-<!-- Değişen Roller -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Software+Developer;IT+Specialist;DevOps+Enthusiast" />
+<!-- Değişen Roller (Altında animasyonlu) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Software+Developer;IT+Specialist;DevOps+Enthusiast" />
 
 <br>
 
