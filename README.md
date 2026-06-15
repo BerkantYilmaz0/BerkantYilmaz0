@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Berkant%20Yılmaz&subtitle=Yazılım%20Geliştirici%20%7C%20BT%20Uzmanı&fontSize=40&theme=dark" width="100%" />
 </p>
 
-Merhaba! 🚀 Ben Berkant Yılmaz. Ankara doğumlu bir yazılım geliştiricisiyim. Next.js, Node.js, PHP ve C# ekosistemlerinde full-stack uygulamalar geliştiriyorum. REST API tasarımı ve veri işleme odaklı backend sistemleri üzerinde çalışıyorum.
+Merhaba! Ben Berkant Yılmaz. Ankara doğumlu bir yazılım geliştiricisiyim. Next.js, Node.js, PHP ve C# ekosistemlerinde full-stack uygulamalar geliştiriyorum. REST API tasarımı ve veri işleme odaklı backend sistemleri üzerinde çalışıyorum.
 
 Metunic bünyesinde IT Specialist olarak Linux sistem yönetimi, paket yönetimi ve altyapı otomasyonu süreçlerinde aktif rol alıyorum. Yazılım geliştirmede sade, ölçeklenebilir ve sürdürülebilir mimari (Katmanlı Mimari) yaklaşımını benimseyerek performans odaklı çözümler üretiyorum.
 
@@ -36,7 +36,6 @@ Full-Stack Web Geliştirme | DevOps & Sistem Yönetimi | Katmanlı Mimari Yapıl
 * 🔭 **Şu an üzerinde çalıştığım süreçler:** Metunic bünyesinde Linux kurulum betikleri, deb paket yönetimi ve sistem otomasyonu süreçlerini yürütüyorum.
 * 🌱 **Şu an kendimi geliştirdiğim konular:** Büyük ölçekli monorepo mimarileri, CI/CD süreçleri ve gelişmiş coğrafi veri (PostGIS) optimizasyonları.
 * 🛠️ **Öne Çıkan Projem:** Node.js, TypeScript ve PostGIS altyapısıyla monorepo mimarisine taşıyarak ölçeklenebilir hale getirdiğim **RingEditor v2** Rota Yönetim Sistemi.
-* 📫 **Bana ulaşın:** berkant_ylmz06@hotmail.com
 
 ### Benimle İletişime Geçin:
 <p align="left">
